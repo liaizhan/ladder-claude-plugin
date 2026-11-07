@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ladder": {
+      "type": "http",
+      "url": "https://108psy.com/mcp"
+    }
+  }
+}

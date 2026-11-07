@@ -1,0 +1,17 @@
+{
+  "name": "ladder-by-aizhan-li",
+  "owner": {
+    "name": "Aizhan Li",
+    "url": "https://108psy.com"
+  },
+  "metadata": {
+    "description": "Plugins by Aizhan Li, author of the Ladder method."
+  },
+  "plugins": [
+    {
+      "name": "ladder-by-aizhan-li",
+      "source": "./",
+      "description": "The Ladder self-check by Aizhan Li: goal, obstacles and fears arranged into a ladder. Read-only."
+    }
+  ]
+}

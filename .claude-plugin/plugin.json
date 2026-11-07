@@ -1,0 +1,11 @@
+{
+  "name": "ladder-by-aizhan-li",
+  "displayName": "Ladder by Aizhan Li",
+  "version": "1.0.0",
+  "description": "The Ladder self-check by Aizhan Li, author of the Ladder method: your goal, where you are now, the obstacles and the fears, arranged into a ladder with a short reading. Russian, Kazakh and English. Read-only, stores nothing.",
+  "author": { "name": "Aizhan Li", "url": "https://108psy.com/ob-avtore" },
+  "homepage": "https://108psy.com/chatgpt",
+  "repository": "https://github.com/liaizhan/ladder-claude-plugin",
+  "license": "MIT",
+  "keywords": ["self-reflection", "goals", "ladder-method", "kazakh", "russian", "wellbeing"]
+}
