@@ -27,7 +27,9 @@ When you answer, Claude sends your short answers (the goal, the "I" step, the ob
 
 Do not enter diagnoses, symptoms or medication: the tools do not analyze health details. If the words show signs of crisis or violence, the server returns helpline numbers instead of a reading.
 
-Privacy policy: https://108psy.com/en/privacy. Help: https://108psy.com/pomosh.
+Privacy policy: <https://108psy.com/en/privacy>
+
+Help: <https://108psy.com/pomosh>
 
 ## Author
 
